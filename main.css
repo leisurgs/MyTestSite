@@ -1,15 +1,11 @@
 
 #navigation {
-	background-color: lightgray;
-	padding: 5px;
+  background-color: lightgray;
+  padding: 5px;
     margin: 0;
 }
 
-/*.header {
-  border: 5px solid black;
-  background-color: red;
-  border-radius: 20px;
-} */
+
 
 .logo {
   border: 5px solid black;
@@ -24,9 +20,9 @@
 } */
 
 .contentarticle {
-	border: 5px solid black;
-	background-color: #ccc;
-	border-radius: 20px;
+  border: 5px solid black;
+  background-color: #ccc;
+  border-radius: 20px;
 }
 .header {
   float: center;
